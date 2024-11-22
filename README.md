@@ -1,4 +1,4 @@
-# JKFLIPFLOP-USING-IF-ELSE
+# EX-07-JKFLIPFLOP-USING-IF-ELSE
 
 **AIM:** 
 
@@ -42,8 +42,8 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 **PROGRAM**
 ```
-Develpoed By: Javith farkhan S
-Register Number: 212221240017
+Developed by: KERSOAN P
+RegisterNumber: 212221230050
 
 module JK(q, qb,j,k,clock,reset);
     input j,k,clock,reset;
